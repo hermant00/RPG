@@ -7,12 +7,12 @@ Tool ini memudahkan kita dalam reset password, tanpa harus susah" buka chrome/in
 ```
 $pkg install python
 $pip install requests
-$git clone https://github.com/Xractz/RPG
+$git clone https://github.com/hermant00/RPG
 $cd RPG
 $python rpg.py
 ```
 
 
-Copyright © 2019, Xractz - IndoSec
+Copyright © 2020, by Xractz - IndoSec | hermant00
 
 
