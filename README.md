@@ -13,6 +13,6 @@ $python rpg.py
 ```
 
 
-Copyright © 2020, by Xractz - IndoSec | hermant00
+Copyright © 2020, ( by Xractz - IndoSec ) | hermant00
 
 
